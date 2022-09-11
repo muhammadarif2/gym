@@ -1,0 +1,39 @@
+#img
+{display: flex;
+justify-content: center;};
+
+#logo{
+    width: 4.5rem;
+}
+.-m-4{
+    display: flex;
+    justify-content: center;
+}
+header{
+    background-color: black;
+    color: white !important;
+}
+.ml-3{
+    color: white;
+}
+footer{
+    background-color: black;
+    color: white !important;
+}
+footer > svg {
+    color: white;
+}
+a:hover {
+    color: #ff0000 !important;
+}
+
+.container{
+    padding-top: 50px !important;
+    padding-bottom: 10px !important;
+
+}
+#about{
+    padding-top: 0px !important;
+    padding-bottom: 10px !important;
+
+}
